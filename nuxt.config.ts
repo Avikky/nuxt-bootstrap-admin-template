@@ -48,5 +48,5 @@ export default defineNuxtConfig({
 		"~/assets/css/bootstrap.min.css",
 		"~/assets/plugins/fontawesome/css/all.min.css",
 		"~/assets/plugins/fontawesome/css/fontawesome.min.css",
-	],
+	]
 });
